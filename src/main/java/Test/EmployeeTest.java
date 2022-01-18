@@ -34,6 +34,13 @@ public class EmployeeTest {
 	@After
 	public void tearDown() throws Exception {
 	}
+	
+	/*LOS CASOS DE PRUEBA IDENTIFICADOS SON
+	Al momento de creación de un tipo de trabajador, el calculo de su respectivo salario.
+	Y sus variaciones conllevarían al correcto funcionamiento del código en los diferentes tipos de tipo de trabajador y tipo de divisa en la que se 
+	paga su salario.
+	*/
+	
 	//Casos prueba para Tipo de trabajador Worker
 	
 	//Validando el empleado de tipo worker con un sueldo de 425
